@@ -1,2 +1,2 @@
 # web_app
-Web using streamlit
+Web app using streamlit
